@@ -1,10 +1,10 @@
-package br.com.zup.demo;
+package br.com.zup.estrelas.zup.estrelas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class ZupEstrelasAlunosApplicationTests {
 
 	@Test
 	void contextLoads() {
